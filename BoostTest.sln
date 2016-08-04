@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoostTest", "BoostTest\BoostTest.vcproj", "{922FFF15-775B-4556-9B16-27DE6197F951}"
+	ProjectSection(ProjectDependencies) = postProject
+		{31180461-BB05-4601-8357-99465C5BE505} = {31180461-BB05-4601-8357-99465C5BE505}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aaa", "aaa\aaa.vcproj", "{31180461-BB05-4601-8357-99465C5BE505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922FFF15-775B-4556-9B16-27DE6197F951}.Debug|Win32.ActiveCfg = Debug|Win32
+		{922FFF15-775B-4556-9B16-27DE6197F951}.Debug|Win32.Build.0 = Debug|Win32
+		{922FFF15-775B-4556-9B16-27DE6197F951}.Release|Win32.ActiveCfg = Release|Win32
+		{922FFF15-775B-4556-9B16-27DE6197F951}.Release|Win32.Build.0 = Release|Win32
+		{31180461-BB05-4601-8357-99465C5BE505}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31180461-BB05-4601-8357-99465C5BE505}.Debug|Win32.Build.0 = Debug|Win32
+		{31180461-BB05-4601-8357-99465C5BE505}.Release|Win32.ActiveCfg = Release|Win32
+		{31180461-BB05-4601-8357-99465C5BE505}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
